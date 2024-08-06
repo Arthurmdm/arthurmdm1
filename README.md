@@ -7,11 +7,11 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
         rel="stylesheet">
-    <title>Aluraflix</title>
+    <title>Noturnoflix</title>
 </head>
 
 <body>
-    <header>ALURAFLIX</header>
+    <header>NOTURNOFLIX</header>
 
     <section class="chamada">
         <div class="chamada-texto">
@@ -39,11 +39,11 @@
             <a href="https://www.youtube.com/watch?v=3_4jmzfonP8">
                 <img src="https://img.youtube.com/vi/3_4jmzfonP8/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-                <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=oU2amq3ckuU">
+                <img src="https://img.youtube.com/vi/oU2amq3ckuU/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
-                <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=0g3GCG_ih7M">
+                <img src="https://img.youtube.com/vi/0g3GCG_ih7M/maxresdefault.jpg" />
             </a>
         </div>
     </section>
